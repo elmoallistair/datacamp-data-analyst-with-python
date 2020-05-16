@@ -11,6 +11,8 @@ When you get a new DataFrame to work with, the first thing you need to do is exp
 
 `pandas` is imported for you.
 
+<hr>
+
 **Instructions**
 * Print the head of the homelessness data
 * Print information about homelessness

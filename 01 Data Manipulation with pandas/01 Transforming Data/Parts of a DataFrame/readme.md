@@ -9,12 +9,13 @@ You can usually think of indexes as being like a list of strings or numbers, tho
 
 `homelessness` is available.
 
+<hr>
+
 **Instructions**
 * Import `pandas` using the alias `pd`.
 * Print a 2D NumPy array of the values in `homelessness`.
 * Print the column names of `homelessness`.
 * Print the index of `homelessness`.
-
 
 **script.py**
 ```
