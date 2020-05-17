@@ -20,68 +20,70 @@ df[["col_a", "col_b"]]
 
 * Create a DataFrame called individuals that contains only the individuals column of homelessness.
 * Print the head of the result.
-	> **script.py**
-	> ```
-	> # Select the individuals column
-	> individuals = homelessness["individuals"]
-	>
-	> # Print the head of the result
-	> print(individuals.head())
-	> ```
-	>
-	> **Output**
-	> ```
-	> 0      2570.0
-	> 1      1434.0
-	> 2      7259.0
-	> 3      2280.0
-	> 4    109008.0
-	> Name: individuals, dtype: float64
-	> ```
+
+> **script.py**
+> ```
+> # Select the individuals column
+> individuals = homelessness["individuals"]
+>
+> # Print the head of the result
+> print(individuals.head())
+> ```
+>
+> **Output**
+> ```
+> 0      2570.0
+> 1      1434.0
+> 2      7259.0
+> 3      2280.0
+> 4    109008.0
+> Name: individuals, dtype: float64
+> ```
 
 **Instructions 2/3**
 
 * Create a DataFrame called state_fam that contains only the state and family_members columns of homelessness, in that order.
 * Print the head of the result.
-	> **script.py**
-	> ```
-	> # Select the state and family_members columns
-	> state_fam = homelessness[["state", "family_members"]]
-	>
-	> # Print the head of the result
-	> print(state_fam.head())
-	> ```
-	>
-	> **Output**
-	> ```
-	>    individuals       state
-	> 0       2570.0     Alabama
-	> 1       1434.0      Alaska
-	> 2       7259.0     Arizona
-	> 3       2280.0    Arkansas
-	> 4     109008.0  California
-	> ```
+
+> **script.py**
+> ```
+> # Select the state and family_members columns
+> state_fam = homelessness[["state", "family_members"]]
+>
+> # Print the head of the result
+> print(state_fam.head())
+> ```
+>
+> **Output**
+> ```
+>    individuals       state
+> 0       2570.0     Alabama
+> 1       1434.0      Alaska
+> 2       7259.0     Arizona
+> 3       2280.0    Arkansas
+> 4     109008.0  California
+> ```
 
 **Instructions 3/3**
 
 * Create a DataFrame called ind_state that contains the individuals and state columns of homelessness, in that order.
 * Print the head of the result.
 
-	> **script.py**
-	> ```
-	> # Select only the individuals and state columns, in that order
-	> ind_state = homelessness[["individuals", "state"]]
-	>
-	> # Print the head of the result
-	> print(ind_state.head())
-	> ```
-	>
-	> **Output**
-	> ```
-	>    individuals       state
-	> 0       2570.0     Alabama
-	> 1       1434.0      Alaska
-	> 2       7259.0     Arizona
-	> 3       2280.0    Arkansas
-	> 4     109008.0  California
-	> ```
+> **script.py**
+> ```
+> # Select only the individuals and state columns, in that order
+> ind_state = homelessness[["individuals", "state"]]
+>
+> # Print the head of the result
+> print(ind_state.head())
+> ```
+>
+> **Output**
+> ```
+>    individuals       state
+> 0       2570.0     Alabama
+> 1       1434.0      Alaska
+> 2       7259.0     Arizona
+> 3       2280.0    Arkansas
+> 4     109008.0  California
+> ```
