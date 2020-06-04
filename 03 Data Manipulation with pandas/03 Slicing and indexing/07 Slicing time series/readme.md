@@ -10,24 +10,25 @@ Recall from Chapter 1 that you can combine multiple Boolean conditions using log
 
 **Instructions**
 
-* Use Boolean conditions to subset for rows in 2010 and 2011, and print the results.
-    * _Note that because the date isn't set as an index, a condition that contains only a year, such as `df['date'] == '2009'`, will check if the date is equal to the first day of the first month of the year (e.g. 2009-01-01), rather than checking whether the date occurs within the given year.
+* Use Boolean conditions (`not .isin() or .loc[]`) to subset for rows in 2010 and 2011, and print the results.
+    * *Note that because the date isn't set as an index, a condition that contains only a year, such as `df['date'] == '2009'`, will check if the date is equal to the first day of the first month of the year (e.g. `2009-01-01`), rather than checking whether the date occurs within the given year. We recommend writing out the full date when using Boolean conditions (e.g. `2009-12-31`)*.
 * Set the index to the `date` column.
 * Use `.loc[]` to subset for rows in 2010 and 2011.
 * Use `.loc[]` to subset for rows from Aug 2010 to Feb 2011.
 
 ## Script
 ```
-# Use Boolean conditions to subset temperatures for rows in 2010 and > 2011
-print(temperatures[(temperatures["date"] >= "2010") & (temperatures> ["date"] < "2012")])
+# Use Boolean conditions to subset temperatures for rows in 2010 and 2011
+temperatures_bool = temperatures[(temperatures['date'] >= '2010') & (temperatures['date'] <= '2011-12-31')]
+print(temperatures_bool)
 
 # Set date as an index
-temperatures_ind = temperatures.set_index("date")
+temperatures_ind = temperatures.set_index('date')
 
 # Use .loc[] to subset temperatures_ind for rows in 2010 and 2011
-print(temperatures_ind.loc["2010":"2011"])
+print(temperatures_ind.loc['2010':'2011'])
 
-# Use .loc[] to subset temperatures_ind for rows from Aug 2010 to Feb > 2011
+# Use .loc[] to subset temperatures_ind for rows from Aug 2010 to Feb 2011
 print(temperatures_ind.loc["2010-08":"2011-02"])
 ```
 

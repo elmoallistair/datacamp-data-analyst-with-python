@@ -12,9 +12,9 @@ The main downside is that the code for manipulating indexes is different to the 
 
 **Instructions**
 
-* Set the index of temperatures to the "country" and "city" columns, assigning to temperatures_ind.
-* Specify two country/city pairs to keep: Brazil/Rio De Janeiro and Pakistan/Lahore, assigning to rows_to_keep.
-* Subset for rows_to_keep using .loc[].
+* Set the index of `temperatures` to the `"country"` and `"city"` columns, assigning to `temperatures_ind`.
+* Specify two country/city pairs to keep: `"Brazil"`/`"Rio De Janeiro"` and `"Pakistan"`/`"Lahore"`, assigning to `rows_to_keep`.
+* Subset for `rows_to_keep` using `.loc[]`.
 
 ## Script
 ```

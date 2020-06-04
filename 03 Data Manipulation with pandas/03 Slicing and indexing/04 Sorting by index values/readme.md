@@ -21,7 +21,7 @@ print(temperatures_ind.sort_index())
 print(temperatures_ind.sort_index(level="city"))
 
 # Sort temperatures_ind by country then descending city
-print(temperatures_ind.sort_index(level=["country", "city"], ascending=> [True, False]))
+print(temperatures_ind.sort_index(level=["country", "city"], ascending=[True, False]))
 ```
 
 ## Output
