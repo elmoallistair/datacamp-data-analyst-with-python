@@ -23,7 +23,7 @@ ax.errorbar(seattle_weather.MONTH, seattle_weather['MLY-TAVG-NORMAL'], yerr=seat
 ax.errorbar(austin_weather.MONTH, austin_weather['MLY-TAVG-NORMAL'], yerr=austin_weather['MLY-TAVG-STDDEV'])
 
 # Set the y-axis label
-ax.ylabel='Temperature (Fahrenheit)'
+ax.set_ylabel('Temperature (Fahrenheit)')
 
 plt.show()
 ```

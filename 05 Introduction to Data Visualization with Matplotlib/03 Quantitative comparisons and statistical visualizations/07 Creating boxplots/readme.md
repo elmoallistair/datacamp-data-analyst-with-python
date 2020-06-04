@@ -4,13 +4,13 @@ Boxplots provide additional information about the distribution of the data that 
 
 In this exercise, you will use the data about medalist heights that you previously visualized as histograms, and as bar charts with error bars, and you will visualize it as boxplots.
 
-Again, you will have the mens_rowing and mens_gymnastics DataFrames available to you, and both of these DataFrames have columns called "Height" that you will compare.
+Again, you will have the `mens_rowing` and `mens_gymnastics` DataFrames available to you, and both of these DataFrames have columns called `"Height"` that you will compare.
 
 **Instructions**
 
-* Create a boxplot that contains the "Height" column for mens_rowing on the left and mens_gymnastics on the right.
-* Add x-axis tick labels: "Rowing" and "Gymnastics".
-* Add a y-axis label: "Height (cm)".
+* Create a boxplot that contains the `"Height"` column for `mens_rowing` on the left and `mens_gymnastics` on the right.
+* Add x-axis tick labels: `"Rowing"` and `"Gymnastics"`.
+* Add a y-axis label: `"Height (cm)"`.
 
 ## Script
 ```
