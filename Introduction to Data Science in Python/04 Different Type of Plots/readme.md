@@ -1,0 +1,1 @@
+In this final chapter, you'll learn how to create three new plot types: scatter plots, bar plots, and histograms. You'll use these tools to locate where the kidnapper is hiding and rescue Bayes, the Golden Retriever.

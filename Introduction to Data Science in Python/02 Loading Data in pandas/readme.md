@@ -1,0 +1,1 @@
+In this chapter, you'll learn a powerful Python libary: pandas. Pandas lets you read, modify, and search tabular datasets (like spreadsheets and database tables). You'll examine credit card records for the suspects and see if any of them made suspicious purchases.
