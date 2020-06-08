@@ -24,7 +24,7 @@ Deshaun created a plot of data from the DataFrames `deshaun`, `mengfei`, and `ad
 > * Deshaun
 > * Aditya
 > * Mengfei
-> s
+>
 > **Answer**
 > > Mengfei
 
