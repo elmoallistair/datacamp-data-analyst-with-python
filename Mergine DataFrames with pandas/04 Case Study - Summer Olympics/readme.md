@@ -1,0 +1,1 @@
+To reinforce your new skills, you'll apply them to an in-depth case study using Olympic medal data. The analysis involves integrating your multi-DataFrame skills from this course and skills you've gained in previous pandas courses. This is a rich dataset that will allow you to fully leverage your pandas data manipulation skills.

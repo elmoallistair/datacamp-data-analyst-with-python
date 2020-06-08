@@ -1,0 +1,3 @@
+## Course Description
+
+As a data scientist, you'll often find that the data you need is not in a single file. It may be spread across a number of text files, spreadsheets, or databases. You’ll want to be able to import the data you’re interested in as a collection of DataFrames and combine them to answer your central questions. This course is all about the act of combining—or merging—DataFrames, an essential part of any data scientist's toolbox. You'll hone your pandas skills by learning how to organize, reshape, and aggregate multiple datasets to answer your specific questions.
