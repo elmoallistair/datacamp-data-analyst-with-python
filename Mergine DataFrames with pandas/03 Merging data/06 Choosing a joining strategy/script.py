@@ -1,0 +1,1 @@
+grades = pd.merge(students, midterm_results, how='left')

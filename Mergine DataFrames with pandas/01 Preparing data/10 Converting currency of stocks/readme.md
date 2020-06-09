@@ -10,7 +10,7 @@ Using the daily exchange rate to Pounds Sterling, your task is to convert both t
 * Read the DataFrames `sp500` & `exchange` from the files `'sp500.csv'` & `'exchange.csv'` respectively..
 * Use `parse_dates=True` and `index_col='Date'`.
 * Extract the columns `'Open'` & `'Close'` from the DataFrame `sp500` as a new DataFrame `dollars` and print the first 5 rows.
-* Construct a new DataFrame `pounds` by converting US dollars to British pounds. You'll use the `.multiply()` method of `dollars` with `exchange['GBP/USD']` and `axis='rows`'
+* Construct a new DataFrame `pounds` by converting US dollars to British pounds. You'll use the `.multiply()` method of `dollars` with `exchange['GBP/USD']` and `axis='rows'`
 * Print the first 5 rows of the new DataFrame `pounds`. This has been done for you, so hit 'Submit Answer' to see the results!.
 
 ## Script

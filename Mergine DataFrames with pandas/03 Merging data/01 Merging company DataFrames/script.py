@@ -1,0 +1,1 @@
+combined = pd.merge(revenue, managers, on='city')
