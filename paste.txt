@@ -1,0 +1,12 @@
+01 ORDER BY
+02 Sorting single columns
+03 Sorting single columns (2)
+04 Sorting single columns (DESC)
+05 Sorting multiple columns
+06 GROUP BY
+07 GROUP BY practice
+08 GROUP BY practice (2)
+09 HAVING a great time
+10 All together now
+11 All together now (2)
+12 A taste of things to come
