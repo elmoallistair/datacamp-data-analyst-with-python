@@ -1,0 +1,396 @@
+,school,sex,age,famsize,Pstatus,Medu,Fedu,traveltime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2,G3,location,study_time
+0,GP,F,18,GT3,A,4,4,2,0,yes,no,no,no,yes,yes,no,no,4,3,4,1,1,3,6,5,6,6,Urban,2 to 5 hours
+1,GP,F,17,GT3,T,1,1,1,0,no,yes,no,no,no,yes,yes,no,5,3,3,1,1,3,4,5,5,6,Urban,2 to 5 hours
+2,GP,F,15,LE3,T,1,1,1,3,yes,no,yes,no,yes,yes,yes,no,4,3,2,2,3,3,10,7,8,10,Urban,2 to 5 hours
+3,GP,F,15,GT3,T,4,2,1,0,no,yes,yes,yes,yes,yes,yes,yes,3,2,2,1,1,5,2,15,14,15,Urban,5 to 10 hours
+4,GP,F,16,GT3,T,3,3,1,0,no,yes,yes,no,yes,yes,no,no,4,3,2,1,2,5,4,6,10,10,Urban,2 to 5 hours
+5,GP,M,16,LE3,T,4,3,1,0,no,yes,yes,yes,yes,yes,yes,no,5,4,2,1,2,5,10,15,15,15,Urban,2 to 5 hours
+6,GP,M,16,LE3,T,2,2,1,0,no,no,no,no,yes,yes,yes,no,4,4,4,1,1,3,0,12,12,11,Urban,2 to 5 hours
+7,GP,F,17,GT3,A,4,4,2,0,yes,yes,no,no,yes,yes,no,no,4,1,4,1,1,1,6,6,5,6,Urban,2 to 5 hours
+8,GP,M,15,LE3,A,3,2,1,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,1,1,0,16,18,19,Urban,2 to 5 hours
+9,GP,M,15,GT3,T,3,4,1,0,no,yes,yes,yes,yes,yes,yes,no,5,5,1,1,1,5,0,14,15,15,Urban,2 to 5 hours
+10,GP,F,15,GT3,T,4,4,1,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,1,2,2,0,10,8,9,Urban,2 to 5 hours
+11,GP,F,15,GT3,T,2,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,2,2,1,1,4,4,10,12,12,Urban,5 to 10 hours
+12,GP,M,15,LE3,T,4,4,1,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,3,5,2,14,14,14,Urban,<2 hours
+13,GP,M,15,GT3,T,4,3,2,0,no,yes,yes,no,yes,yes,yes,no,5,4,3,1,2,3,2,10,10,11,Urban,2 to 5 hours
+14,GP,M,15,GT3,A,2,2,1,0,no,yes,no,no,yes,yes,yes,yes,4,5,2,1,1,3,0,14,16,16,Urban,5 to 10 hours
+15,GP,F,16,GT3,T,4,4,1,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,2,2,4,14,14,14,Urban,<2 hours
+16,GP,F,16,GT3,T,4,4,1,0,no,yes,yes,yes,yes,yes,yes,no,3,2,3,1,2,2,6,13,14,14,Urban,5 to 10 hours
+17,GP,F,16,GT3,T,3,3,3,0,yes,yes,no,yes,yes,yes,no,no,5,3,2,1,1,4,4,8,10,10,Urban,2 to 5 hours
+18,GP,M,17,GT3,T,3,2,1,3,no,yes,no,yes,yes,yes,yes,no,5,5,5,2,4,5,16,6,5,5,Urban,<2 hours
+19,GP,M,16,LE3,T,4,3,1,0,no,no,yes,yes,yes,yes,yes,no,3,1,3,1,3,5,4,8,10,10,Urban,<2 hours
+20,GP,M,15,GT3,T,4,3,1,0,no,no,no,no,yes,yes,yes,no,4,4,1,1,1,1,0,13,14,15,Urban,2 to 5 hours
+21,GP,M,15,GT3,T,4,4,1,0,no,yes,yes,no,yes,yes,yes,no,5,4,2,1,1,5,0,12,15,15,Urban,<2 hours
+22,GP,M,16,LE3,T,4,2,1,0,no,no,no,yes,yes,yes,yes,no,4,5,1,1,3,5,2,15,15,16,Urban,2 to 5 hours
+23,GP,M,16,LE3,T,2,2,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,2,4,5,0,13,13,12,Urban,2 to 5 hours
+24,GP,F,15,GT3,T,2,4,1,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,2,1,1,5,2,10,9,8,Rural,5 to 10 hours
+25,GP,F,16,GT3,T,2,2,1,2,no,yes,yes,no,no,yes,yes,no,1,2,2,1,3,5,14,6,9,8,Urban,<2 hours
+26,GP,M,15,GT3,T,2,2,1,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,2,5,2,12,12,11,Urban,<2 hours
+27,GP,M,15,GT3,T,4,2,1,0,no,no,yes,no,yes,yes,yes,no,2,2,4,2,4,1,4,15,16,15,Urban,<2 hours
+28,GP,M,16,LE3,A,3,4,1,0,yes,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,5,4,11,11,11,Urban,2 to 5 hours
+29,GP,M,16,GT3,T,4,4,1,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,5,5,5,5,16,10,12,11,Urban,2 to 5 hours
+30,GP,M,15,GT3,T,4,4,1,0,no,yes,yes,no,no,yes,yes,no,5,4,2,3,4,5,0,9,11,12,Urban,2 to 5 hours
+31,GP,M,15,GT3,T,4,4,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,1,1,1,5,0,17,16,17,Urban,2 to 5 hours
+32,GP,M,15,GT3,T,4,3,1,0,no,yes,no,yes,yes,yes,yes,yes,4,5,2,1,1,5,0,17,16,16,Rural,2 to 5 hours
+33,GP,M,15,LE3,T,3,3,1,0,no,no,no,yes,no,yes,yes,no,5,3,2,1,1,2,0,8,10,12,Urban,2 to 5 hours
+34,GP,M,16,GT3,T,3,2,1,0,no,yes,yes,no,no,yes,yes,no,5,4,3,1,1,5,0,12,14,15,Urban,<2 hours
+35,GP,F,15,GT3,T,2,3,2,0,no,yes,no,yes,yes,yes,no,no,3,5,1,1,1,5,0,8,7,6,Urban,<2 hours
+36,GP,M,15,LE3,T,4,3,1,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,1,4,2,15,16,18,Urban,5 to 10 hours
+37,GP,M,16,GT3,A,4,4,2,0,no,yes,no,yes,yes,yes,yes,yes,2,4,3,1,1,5,7,15,16,15,Rural,5 to 10 hours
+38,GP,F,15,GT3,T,3,4,1,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,2,1,1,5,2,12,12,11,Rural,5 to 10 hours
+39,GP,F,15,GT3,T,2,2,1,0,yes,yes,yes,yes,yes,yes,no,no,4,3,1,1,1,2,8,14,13,13,Rural,<2 hours
+40,GP,F,16,LE3,T,2,2,2,1,no,yes,no,yes,no,yes,yes,yes,3,3,3,1,2,3,25,7,10,11,Urban,2 to 5 hours
+41,GP,M,15,LE3,T,4,4,1,0,no,yes,no,no,no,yes,yes,yes,5,4,3,2,4,5,8,12,12,12,Urban,<2 hours
+42,GP,M,15,GT3,T,4,4,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,1,5,2,19,18,18,Urban,2 to 5 hours
+43,GP,M,15,GT3,T,2,2,1,0,yes,yes,no,no,yes,yes,yes,no,5,4,1,1,1,1,0,8,8,11,Urban,<2 hours
+44,GP,F,16,LE3,T,2,2,2,1,yes,no,no,yes,yes,yes,yes,no,4,3,3,2,2,5,14,10,10,9,Urban,2 to 5 hours
+45,GP,F,15,LE3,A,4,3,1,0,yes,yes,yes,yes,yes,yes,yes,yes,5,2,2,1,1,5,8,8,8,6,Urban,2 to 5 hours
+46,GP,F,16,LE3,A,3,3,1,0,no,yes,no,no,yes,yes,yes,no,2,3,5,1,4,3,12,11,12,11,Urban,2 to 5 hours
+47,GP,M,16,GT3,T,4,3,1,0,no,no,no,yes,yes,yes,yes,no,4,2,2,1,1,2,4,19,19,20,Urban,>10 hours
+48,GP,M,15,GT3,T,4,2,1,0,no,yes,yes,no,yes,yes,no,no,4,3,3,2,2,5,2,15,15,14,Urban,2 to 5 hours
+49,GP,F,15,GT3,T,4,4,1,1,yes,yes,no,yes,no,yes,yes,no,4,4,4,1,1,3,2,7,7,7,Urban,2 to 5 hours
+50,GP,F,16,LE3,T,2,2,3,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,2,3,4,2,12,13,13,Urban,2 to 5 hours
+51,GP,F,15,LE3,T,4,2,1,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,5,2,11,13,13,Urban,2 to 5 hours
+52,GP,M,15,LE3,A,4,2,2,1,no,no,no,no,yes,yes,no,no,5,5,5,3,4,5,6,11,11,10,Urban,<2 hours
+53,GP,F,15,GT3,T,4,4,1,0,yes,yes,yes,no,yes,yes,yes,no,3,3,4,2,3,5,0,8,10,11,Urban,<2 hours
+54,GP,F,15,LE3,A,3,3,1,0,no,no,yes,no,yes,yes,yes,no,5,3,4,4,4,1,6,10,13,13,Urban,<2 hours
+55,GP,F,16,GT3,A,2,1,1,0,no,no,yes,yes,yes,yes,yes,yes,5,3,4,1,1,2,8,8,9,10,Urban,2 to 5 hours
+56,GP,F,15,GT3,A,4,3,1,0,no,yes,yes,yes,yes,yes,yes,no,4,3,2,1,1,1,0,14,15,15,Urban,2 to 5 hours
+57,GP,M,15,GT3,T,4,4,1,0,no,yes,no,yes,yes,yes,no,no,3,2,2,1,1,5,4,14,15,15,Urban,2 to 5 hours
+58,GP,M,15,LE3,T,1,2,1,0,yes,yes,no,yes,yes,yes,yes,no,4,3,2,1,1,5,2,9,10,9,Urban,2 to 5 hours
+59,GP,F,16,GT3,T,4,2,1,0,no,yes,no,no,yes,yes,yes,no,4,2,3,1,1,5,2,15,16,16,Urban,2 to 5 hours
+60,GP,F,16,GT3,T,4,4,1,0,no,yes,no,yes,yes,yes,no,no,2,4,4,2,3,4,6,10,11,11,Rural,2 to 5 hours
+61,GP,F,16,GT3,T,1,1,4,0,yes,yes,no,yes,no,yes,yes,yes,5,5,5,5,5,5,6,10,8,11,Urban,<2 hours
+62,GP,F,16,LE3,T,1,2,1,0,yes,no,no,yes,yes,yes,yes,no,4,4,3,1,1,1,4,8,10,9,Urban,2 to 5 hours
+63,GP,F,16,GT3,T,4,3,1,0,yes,yes,yes,yes,yes,yes,yes,no,3,4,4,2,4,4,2,10,9,9,Urban,5 to 10 hours
+64,GP,F,15,LE3,T,4,3,1,0,yes,no,no,yes,yes,yes,yes,yes,4,4,4,2,4,2,0,10,10,10,Urban,2 to 5 hours
+65,GP,F,16,LE3,T,4,3,3,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,2,1,2,16,15,15,Urban,2 to 5 hours
+66,GP,M,15,GT3,A,4,4,1,0,no,yes,no,yes,no,yes,yes,yes,1,3,3,5,5,3,4,13,13,12,Urban,>10 hours
+67,GP,F,16,GT3,T,3,1,1,0,yes,yes,yes,no,yes,yes,yes,no,4,3,3,1,2,5,4,7,7,6,Urban,>10 hours
+68,GP,F,15,LE3,T,2,2,2,0,yes,yes,yes,no,yes,yes,yes,no,4,1,3,1,3,4,2,8,9,8,Rural,2 to 5 hours
+69,GP,F,15,LE3,T,3,1,2,0,no,yes,no,no,no,yes,yes,no,4,4,2,2,3,3,12,16,16,16,Rural,>10 hours
+70,GP,M,16,GT3,T,3,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,2,1,1,5,0,13,15,15,Urban,>10 hours
+71,GP,M,15,GT3,T,4,2,1,0,no,no,no,no,yes,yes,yes,no,3,3,3,1,1,3,0,10,10,10,Urban,>10 hours
+72,GP,F,15,GT3,T,1,1,1,2,yes,yes,no,no,no,yes,yes,yes,3,3,4,2,4,5,2,8,6,5,Rural,2 to 5 hours
+73,GP,M,16,GT3,T,3,1,1,0,no,no,no,yes,yes,yes,no,no,5,3,2,2,2,5,2,12,12,14,Urban,<2 hours
+74,GP,F,16,GT3,T,3,3,1,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,3,2,4,5,54,11,12,11,Urban,2 to 5 hours
+75,GP,M,15,GT3,T,4,3,1,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,2,3,5,6,9,9,10,Urban,2 to 5 hours
+76,GP,M,15,GT3,T,4,0,2,0,no,no,no,yes,yes,yes,yes,no,3,4,3,1,1,1,8,11,11,10,Urban,>10 hours
+77,GP,F,16,GT3,T,2,2,1,0,no,no,yes,no,yes,yes,yes,yes,5,2,3,1,3,3,0,11,11,11,Urban,>10 hours
+78,GP,M,17,GT3,T,2,1,2,3,yes,yes,no,yes,yes,no,yes,no,4,5,1,1,1,3,2,8,8,10,Urban,<2 hours
+79,GP,F,16,GT3,T,3,4,1,0,no,yes,no,no,yes,yes,yes,no,2,4,3,1,2,3,12,5,5,5,Urban,2 to 5 hours
+80,GP,M,15,GT3,T,2,3,1,0,yes,yes,yes,yes,no,yes,yes,yes,3,2,2,1,3,3,2,10,12,12,Urban,<2 hours
+81,GP,M,15,GT3,T,2,3,1,0,yes,no,yes,no,no,yes,yes,no,5,3,2,1,2,5,4,11,10,11,Urban,5 to 10 hours
+82,GP,F,15,LE3,T,3,2,1,0,no,yes,yes,no,yes,yes,yes,no,4,4,4,1,1,5,10,7,6,6,Urban,2 to 5 hours
+83,GP,M,15,LE3,T,2,2,2,0,no,no,yes,yes,yes,yes,yes,no,5,3,3,1,3,4,4,15,15,15,Urban,2 to 5 hours
+84,GP,F,15,GT3,T,1,1,1,0,no,yes,no,yes,no,yes,yes,no,4,3,2,2,3,4,2,9,10,10,Urban,2 to 5 hours
+85,GP,F,15,GT3,T,4,4,2,2,no,no,yes,no,yes,yes,yes,yes,4,4,4,2,3,5,6,7,9,8,Urban,2 to 5 hours
+86,GP,F,16,LE3,T,2,2,1,0,no,yes,no,no,yes,yes,no,no,4,3,4,1,2,2,4,8,7,6,Urban,2 to 5 hours
+87,GP,F,15,GT3,T,4,2,1,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,3,1,4,13,14,14,Urban,5 to 10 hours
+88,GP,M,16,GT3,T,2,2,2,1,no,no,yes,yes,no,yes,yes,no,4,4,2,1,1,3,12,11,10,10,Urban,2 to 5 hours
+89,GP,M,16,LE3,A,4,4,1,0,no,yes,no,no,yes,yes,no,no,4,1,3,3,5,5,18,8,6,7,Urban,2 to 5 hours
+90,GP,F,16,GT3,T,3,3,1,0,no,yes,yes,no,yes,yes,yes,yes,4,3,3,1,3,4,0,7,7,8,Urban,5 to 10 hours
+91,GP,F,15,GT3,T,4,3,1,0,no,no,yes,yes,yes,yes,yes,no,4,5,5,1,3,1,4,16,17,18,Urban,<2 hours
+92,GP,F,16,LE3,T,3,1,1,0,yes,yes,no,no,yes,yes,no,no,3,3,3,2,3,2,4,7,6,6,Urban,2 to 5 hours
+93,GP,F,16,GT3,T,4,2,2,0,no,yes,yes,yes,yes,yes,yes,no,5,3,3,1,1,1,0,11,10,10,Urban,2 to 5 hours
+94,GP,M,15,LE3,T,2,2,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,4,1,1,4,6,11,13,14,Urban,>10 hours
+95,GP,F,15,GT3,T,1,1,2,1,yes,yes,yes,yes,yes,yes,yes,no,3,1,2,1,1,1,2,7,10,10,Rural,>10 hours
+96,GP,M,16,GT3,T,4,3,2,0,yes,yes,no,yes,no,yes,yes,no,3,3,3,1,1,4,2,11,15,15,Rural,<2 hours
+97,GP,F,16,GT3,T,2,1,1,0,no,yes,yes,no,yes,yes,no,yes,4,3,5,1,1,5,2,8,9,10,Urban,2 to 5 hours
+98,GP,F,16,GT3,T,4,4,1,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,2,1,6,11,14,14,Urban,<2 hours
+99,GP,F,16,GT3,T,4,3,1,0,yes,yes,yes,no,yes,yes,yes,no,5,3,5,1,1,3,0,7,9,8,Urban,5 to 10 hours
+100,GP,M,16,GT3,T,4,4,1,0,yes,yes,yes,yes,yes,yes,yes,no,4,5,5,5,5,4,14,7,7,5,Urban,<2 hours
+101,GP,M,16,GT3,T,4,4,1,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,1,1,4,0,16,17,17,Urban,5 to 10 hours
+102,GP,M,15,GT3,T,4,4,1,0,no,yes,no,yes,no,yes,yes,no,5,3,3,1,1,5,4,10,13,14,Urban,<2 hours
+103,GP,F,15,GT3,T,3,2,2,0,yes,yes,yes,no,yes,yes,yes,no,4,3,5,1,1,2,26,7,6,6,Urban,2 to 5 hours
+104,GP,M,15,GT3,A,3,4,1,0,no,yes,yes,yes,yes,yes,yes,no,5,4,4,1,1,1,0,16,18,18,Urban,2 to 5 hours
+105,GP,F,15,GT3,A,3,3,1,0,yes,no,no,no,yes,yes,no,no,4,3,3,1,1,4,10,10,11,11,Urban,>10 hours
+106,GP,F,15,GT3,T,2,2,1,0,yes,yes,yes,no,yes,yes,yes,no,5,1,2,1,1,3,8,7,8,8,Urban,>10 hours
+107,GP,M,16,GT3,T,3,3,1,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,5,2,16,18,18,Urban,5 to 10 hours
+108,GP,M,15,GT3,T,4,4,4,0,no,yes,yes,yes,yes,yes,yes,yes,1,3,5,3,5,1,6,10,13,13,Rural,>10 hours
+109,GP,F,16,LE3,T,4,4,1,0,no,yes,yes,yes,yes,yes,yes,yes,5,4,5,1,1,4,4,14,15,16,Urban,5 to 10 hours
+110,GP,M,15,LE3,A,4,4,1,0,no,no,no,yes,yes,yes,yes,no,5,5,3,1,1,4,6,18,19,19,Urban,<2 hours
+111,GP,F,16,GT3,T,3,3,1,1,yes,yes,no,yes,yes,yes,yes,no,4,1,2,1,1,2,0,7,10,10,Rural,5 to 10 hours
+112,GP,F,16,GT3,T,2,2,1,1,yes,no,no,yes,yes,yes,yes,no,3,1,2,1,1,5,6,10,13,13,Urban,2 to 5 hours
+113,GP,M,15,LE3,T,4,2,1,0,no,no,no,no,yes,yes,yes,no,3,5,2,1,1,3,10,18,19,19,Urban,<2 hours
+114,GP,M,15,GT3,T,2,1,1,0,no,no,no,yes,yes,yes,yes,yes,5,4,2,1,1,5,8,9,9,9,Rural,2 to 5 hours
+115,GP,M,16,GT3,T,4,4,1,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,1,2,5,2,15,15,16,Urban,2 to 5 hours
+116,GP,M,15,GT3,T,4,4,2,0,no,yes,no,yes,yes,yes,no,no,4,4,3,1,1,2,2,11,13,14,Urban,2 to 5 hours
+117,GP,M,16,GT3,T,3,3,2,0,no,no,no,yes,yes,yes,yes,no,5,4,2,1,1,5,0,13,14,13,Urban,<2 hours
+118,GP,M,17,GT3,T,1,3,3,1,no,yes,no,yes,yes,yes,yes,no,5,2,4,1,4,5,20,9,7,8,Rural,2 to 5 hours
+119,GP,M,15,GT3,T,3,4,1,0,no,no,no,no,yes,yes,yes,no,3,4,3,1,2,4,6,14,13,13,Urban,<2 hours
+120,GP,F,15,GT3,T,1,2,1,0,no,no,no,no,no,yes,yes,no,3,2,3,1,2,1,2,16,15,15,Urban,2 to 5 hours
+121,GP,M,15,GT3,T,2,2,1,0,no,yes,yes,yes,yes,yes,yes,no,5,5,4,1,2,5,6,16,14,15,Urban,>10 hours
+122,GP,F,16,LE3,T,2,4,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,2,2,1,2,5,2,13,13,13,Urban,2 to 5 hours
+123,GP,M,16,GT3,T,4,4,1,0,no,yes,no,yes,yes,yes,yes,no,3,4,4,1,4,5,18,14,11,13,Urban,<2 hours
+124,GP,F,16,GT3,T,2,2,1,0,no,no,yes,no,yes,yes,yes,yes,5,4,4,1,1,5,0,8,7,8,Urban,2 to 5 hours
+125,GP,M,15,GT3,T,3,4,1,0,yes,no,no,no,yes,yes,yes,no,5,5,5,3,2,5,0,13,13,12,Urban,<2 hours
+126,GP,F,15,LE3,A,3,4,1,0,yes,no,no,yes,yes,yes,yes,yes,5,3,2,1,1,1,0,7,10,11,Urban,2 to 5 hours
+127,GP,F,19,GT3,T,0,1,1,3,no,yes,no,no,no,no,no,no,3,4,2,1,1,5,2,7,8,9,Urban,2 to 5 hours
+128,GP,M,18,GT3,T,2,2,1,2,no,yes,no,yes,yes,yes,yes,no,3,3,3,1,2,4,0,7,4,0,Rural,<2 hours
+129,GP,M,16,GT3,T,4,4,1,0,no,no,yes,yes,yes,yes,yes,no,3,5,5,2,5,4,8,18,18,18,Rural,<2 hours
+130,GP,F,15,GT3,T,3,4,2,2,no,yes,no,no,yes,yes,yes,yes,4,2,2,2,2,5,0,12,0,0,Rural,5 to 10 hours
+131,GP,F,15,GT3,T,1,1,3,0,no,yes,no,yes,no,yes,yes,yes,4,3,3,1,2,4,0,8,0,0,Urban,<2 hours
+132,GP,F,17,LE3,T,2,2,1,0,no,yes,no,no,yes,yes,yes,yes,3,4,4,1,3,5,12,10,13,12,Urban,<2 hours
+133,GP,F,16,GT3,A,3,4,1,0,no,no,no,no,yes,yes,yes,no,3,2,1,1,4,5,16,12,11,11,Urban,<2 hours
+134,GP,M,15,GT3,T,3,4,4,0,no,yes,no,no,yes,yes,no,yes,5,3,3,1,1,5,0,9,0,0,Rural,2 to 5 hours
+135,GP,F,15,GT3,T,4,4,1,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,1,1,5,0,11,0,0,Urban,5 to 10 hours
+136,GP,M,17,GT3,T,3,4,3,0,no,no,no,no,yes,yes,no,no,5,4,5,2,4,5,0,10,0,0,Rural,2 to 5 hours
+137,GP,F,16,GT3,A,3,3,2,2,no,yes,no,yes,no,yes,yes,yes,4,3,2,1,1,5,0,4,0,0,Urban,<2 hours
+138,GP,M,16,LE3,T,1,1,1,1,no,no,no,no,yes,yes,no,yes,4,4,4,1,3,5,0,14,12,12,Urban,2 to 5 hours
+139,GP,F,15,GT3,T,4,4,2,0,no,no,no,yes,yes,yes,yes,no,4,3,2,1,1,5,0,16,16,15,Urban,<2 hours
+140,GP,M,15,GT3,T,4,3,2,0,yes,yes,no,no,yes,yes,yes,no,2,2,2,1,1,3,0,7,9,0,Urban,>10 hours
+141,GP,M,16,LE3,T,2,2,2,2,no,yes,no,yes,yes,yes,yes,no,2,3,3,2,2,2,8,9,9,9,Urban,<2 hours
+142,GP,F,15,GT3,T,4,4,1,0,no,yes,yes,yes,yes,yes,yes,no,4,2,2,1,1,5,2,9,11,11,Urban,5 to 10 hours
+143,GP,F,16,LE3,T,1,1,1,0,no,no,no,no,yes,yes,yes,no,3,4,4,3,3,1,2,14,14,13,Urban,<2 hours
+144,GP,M,17,GT3,T,2,1,1,3,no,yes,no,no,yes,yes,yes,no,5,4,5,1,2,5,0,5,0,0,Urban,<2 hours
+145,GP,F,15,GT3,T,1,1,1,0,no,yes,yes,no,yes,yes,yes,no,4,4,2,1,2,5,0,8,11,11,Urban,2 to 5 hours
+146,GP,F,15,GT3,T,3,2,1,3,no,yes,no,no,yes,yes,yes,no,3,3,2,1,1,3,0,6,7,0,Urban,2 to 5 hours
+147,GP,F,15,GT3,T,1,2,1,0,no,yes,yes,no,no,yes,yes,no,4,3,2,1,1,5,2,10,11,11,Urban,2 to 5 hours
+148,GP,M,16,GT3,T,4,4,1,0,no,yes,no,no,yes,no,yes,yes,3,3,2,2,1,5,0,7,6,0,Urban,<2 hours
+149,GP,M,15,LE3,A,2,1,4,3,no,no,no,no,yes,yes,yes,no,4,5,5,2,5,5,0,8,9,10,Urban,<2 hours
+150,GP,M,18,LE3,T,1,1,1,3,no,no,no,no,yes,no,yes,yes,2,3,5,2,5,4,0,6,5,0,Urban,<2 hours
+151,GP,M,16,LE3,T,2,1,1,1,no,no,no,yes,yes,yes,no,yes,4,4,4,3,5,5,6,12,13,14,Urban,<2 hours
+152,GP,F,15,GT3,T,3,3,2,2,no,yes,yes,yes,yes,yes,yes,yes,4,2,1,2,3,3,8,10,10,10,Rural,5 to 10 hours
+153,GP,M,19,GT3,T,3,2,1,3,no,yes,no,no,yes,no,yes,yes,4,5,4,1,1,4,0,5,0,0,Urban,<2 hours
+154,GP,F,17,GT3,T,4,4,1,0,yes,yes,no,no,yes,yes,no,yes,4,2,1,1,1,4,0,11,11,12,Urban,<2 hours
+155,GP,M,15,GT3,T,2,3,1,0,yes,no,yes,yes,yes,yes,no,no,4,4,4,1,1,1,2,11,8,8,Rural,2 to 5 hours
+156,GP,M,17,LE3,T,1,2,1,0,no,no,no,no,yes,yes,no,no,2,2,2,3,3,5,8,16,12,13,Rural,<2 hours
+157,GP,F,18,GT3,T,1,1,3,3,no,yes,no,yes,no,yes,no,no,5,2,5,1,5,4,6,9,8,10,Rural,<2 hours
+158,GP,M,16,GT3,T,2,2,3,0,no,no,no,no,no,yes,no,no,4,2,2,1,2,3,2,17,15,15,Rural,<2 hours
+159,GP,M,16,GT3,T,3,3,1,1,no,yes,yes,no,yes,yes,yes,yes,4,5,5,4,4,5,4,10,12,12,Urban,2 to 5 hours
+160,GP,M,17,LE3,T,2,1,2,2,no,no,no,yes,yes,no,yes,yes,3,3,2,2,2,5,0,7,6,0,Rural,<2 hours
+161,GP,M,15,GT3,T,3,2,2,2,yes,yes,no,no,yes,yes,yes,yes,4,4,4,1,4,3,6,5,9,7,Rural,2 to 5 hours
+162,GP,M,16,LE3,T,1,2,2,1,no,no,no,yes,yes,yes,no,no,4,4,4,2,4,5,0,7,0,0,Urban,<2 hours
+163,GP,M,17,GT3,T,1,3,1,0,no,no,no,no,yes,no,yes,no,5,3,3,1,4,2,2,10,10,10,Urban,<2 hours
+164,GP,M,17,LE3,T,1,1,4,3,no,no,no,yes,yes,no,no,yes,5,3,5,1,5,5,0,5,8,7,Rural,2 to 5 hours
+165,GP,M,16,GT3,T,3,2,2,1,no,yes,no,yes,no,no,no,no,4,5,2,1,1,2,16,12,11,12,Urban,<2 hours
+166,GP,M,16,GT3,T,2,2,1,0,no,no,no,no,yes,no,yes,no,4,3,5,2,4,4,4,10,10,10,Urban,2 to 5 hours
+167,GP,F,16,GT3,T,4,2,1,0,no,no,yes,no,yes,yes,yes,yes,4,2,3,1,1,3,0,14,15,16,Urban,2 to 5 hours
+168,GP,F,16,GT3,T,2,2,1,0,no,yes,yes,no,no,yes,yes,no,5,1,5,1,1,4,0,6,7,0,Urban,2 to 5 hours
+169,GP,F,16,GT3,T,4,4,1,0,no,yes,yes,no,yes,yes,yes,yes,4,4,2,1,1,3,0,14,14,14,Urban,2 to 5 hours
+170,GP,M,16,GT3,T,3,4,3,2,no,yes,no,yes,no,yes,yes,no,3,4,5,2,4,2,0,6,5,0,Urban,<2 hours
+171,GP,M,16,GT3,T,1,0,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,2,1,1,3,2,13,15,16,Urban,2 to 5 hours
+172,GP,M,17,LE3,T,4,4,1,0,no,yes,yes,yes,yes,yes,yes,no,4,4,4,1,3,5,0,13,11,10,Urban,2 to 5 hours
+173,GP,F,16,GT3,T,1,3,1,3,no,no,no,yes,no,yes,yes,yes,4,3,5,1,1,3,0,8,7,0,Urban,2 to 5 hours
+174,GP,F,16,LE3,T,3,3,2,0,no,yes,yes,yes,yes,yes,yes,no,4,4,5,1,1,4,4,10,11,9,Urban,2 to 5 hours
+175,GP,M,17,LE3,T,4,3,2,0,no,no,yes,yes,yes,yes,yes,no,4,4,4,4,4,4,4,10,9,9,Urban,2 to 5 hours
+176,GP,F,16,GT3,T,2,2,2,0,no,no,yes,yes,no,yes,yes,no,3,4,4,1,4,5,2,13,13,11,Urban,2 to 5 hours
+177,GP,M,17,GT3,T,3,3,1,0,no,no,no,yes,no,yes,yes,no,4,3,4,1,4,4,4,6,5,6,Urban,2 to 5 hours
+178,GP,M,16,GT3,T,4,2,1,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,3,4,3,10,10,8,9,Rural,<2 hours
+179,GP,M,17,GT3,T,4,3,1,0,no,yes,no,yes,yes,yes,yes,yes,5,2,3,1,1,2,4,10,10,11,Urban,2 to 5 hours
+180,GP,M,16,GT3,T,4,3,1,0,no,yes,yes,yes,yes,yes,yes,no,3,4,3,2,3,3,10,9,8,8,Urban,2 to 5 hours
+181,GP,M,16,GT3,T,3,3,1,0,no,no,yes,yes,yes,yes,yes,yes,4,2,3,1,2,3,2,12,13,12,Urban,2 to 5 hours
+182,GP,F,17,GT3,T,2,4,1,0,no,yes,no,yes,yes,yes,no,no,5,4,2,2,3,5,0,16,17,17,Urban,2 to 5 hours
+183,GP,F,17,LE3,T,3,3,1,0,no,yes,no,yes,yes,yes,yes,yes,5,3,3,2,3,1,56,9,9,8,Urban,2 to 5 hours
+184,GP,F,16,GT3,T,3,2,1,0,no,yes,yes,no,yes,yes,yes,no,1,2,2,1,2,1,14,12,13,12,Urban,2 to 5 hours
+185,GP,M,17,GT3,T,3,3,1,0,no,yes,no,yes,yes,yes,yes,yes,4,3,4,2,3,4,12,12,12,11,Urban,2 to 5 hours
+186,GP,M,16,GT3,T,1,2,1,0,no,yes,yes,yes,yes,yes,yes,yes,3,3,3,1,2,3,2,11,12,11,Urban,<2 hours
+187,GP,M,16,LE3,T,2,1,1,0,no,no,yes,yes,yes,yes,yes,yes,4,2,3,1,2,5,0,15,15,15,Urban,2 to 5 hours
+188,GP,F,17,GT3,A,3,3,1,0,no,yes,no,no,no,yes,yes,yes,3,3,3,1,3,3,6,8,7,9,Urban,2 to 5 hours
+189,GP,M,17,GT3,T,1,2,1,0,no,no,no,no,yes,yes,no,no,3,1,3,1,5,3,4,8,9,10,Rural,2 to 5 hours
+190,GP,F,16,GT3,T,2,3,1,0,no,no,no,no,yes,yes,yes,no,4,3,3,1,1,2,10,11,12,13,Urban,2 to 5 hours
+191,GP,F,17,GT3,T,1,1,1,0,no,no,no,yes,yes,yes,yes,no,5,3,3,1,1,3,0,8,8,9,Urban,2 to 5 hours
+192,GP,M,17,GT3,T,1,2,2,0,no,no,yes,yes,no,yes,yes,no,4,4,4,4,5,5,12,7,8,8,Urban,2 to 5 hours
+193,GP,M,16,GT3,T,3,3,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,2,3,4,5,8,8,9,10,Rural,<2 hours
+194,GP,M,16,GT3,T,2,3,2,0,no,no,no,no,yes,yes,yes,no,5,3,3,1,1,3,0,13,14,14,Urban,<2 hours
+195,GP,F,17,LE3,T,2,4,1,0,no,no,no,yes,yes,yes,yes,yes,4,3,2,1,1,5,0,14,15,15,Urban,2 to 5 hours
+196,GP,M,17,GT3,T,4,4,1,0,no,no,no,no,yes,yes,yes,no,5,2,3,1,2,5,4,17,15,16,Urban,<2 hours
+197,GP,M,16,LE3,T,3,3,3,0,no,yes,yes,yes,yes,yes,yes,no,3,3,4,3,5,3,8,9,9,10,Rural,<2 hours
+198,GP,F,17,GT3,T,4,4,2,1,no,yes,no,no,yes,yes,yes,no,4,2,4,2,3,2,24,18,18,18,Urban,<2 hours
+199,GP,F,16,LE3,T,4,4,1,0,no,yes,yes,no,yes,yes,yes,no,4,5,2,1,2,3,0,9,9,10,Urban,2 to 5 hours
+200,GP,F,16,GT3,T,4,3,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,5,1,5,2,2,16,16,16,Urban,2 to 5 hours
+201,GP,F,16,GT3,T,2,3,1,0,yes,yes,yes,yes,yes,yes,no,no,4,4,3,1,3,4,6,8,10,10,Urban,2 to 5 hours
+202,GP,F,17,GT3,T,1,1,1,0,no,yes,yes,no,no,yes,no,no,4,4,4,1,3,1,4,9,9,10,Urban,2 to 5 hours
+203,GP,F,17,GT3,T,2,2,1,0,no,yes,no,no,yes,yes,yes,no,5,3,2,1,2,3,18,7,6,6,Rural,<2 hours
+204,GP,F,16,GT3,T,2,2,2,0,no,yes,yes,yes,no,yes,yes,no,5,3,5,1,1,5,6,10,10,11,Rural,>10 hours
+205,GP,F,17,GT3,T,3,4,1,1,no,yes,yes,no,yes,yes,yes,yes,4,4,3,3,4,5,28,10,9,9,Urban,5 to 10 hours
+206,GP,F,16,GT3,A,3,1,1,3,no,yes,yes,no,yes,yes,yes,no,2,3,3,2,2,4,5,7,7,7,Urban,2 to 5 hours
+207,GP,F,16,GT3,T,4,3,1,0,no,no,yes,yes,yes,yes,yes,yes,1,3,2,1,1,1,10,11,12,13,Urban,2 to 5 hours
+208,GP,F,16,GT3,T,1,1,2,0,no,yes,yes,no,yes,yes,no,no,4,3,2,1,4,5,6,9,9,10,Urban,<2 hours
+209,GP,F,17,GT3,T,4,3,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,2,1,1,4,6,7,7,7,Rural,5 to 10 hours
+210,GP,F,19,GT3,T,3,3,1,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,2,3,10,8,8,8,Urban,>10 hours
+211,GP,M,17,LE3,T,4,4,1,0,no,yes,yes,no,yes,yes,yes,yes,5,3,5,4,5,3,13,12,12,13,Urban,2 to 5 hours
+212,GP,F,16,GT3,A,2,2,1,0,yes,yes,yes,no,yes,yes,yes,no,3,3,4,1,1,4,0,12,13,14,Urban,2 to 5 hours
+213,GP,M,18,GT3,T,2,2,1,1,no,yes,yes,yes,yes,yes,yes,no,4,4,4,2,4,5,15,6,7,8,Urban,2 to 5 hours
+214,GP,F,17,LE3,T,4,4,1,0,no,yes,yes,no,yes,yes,no,no,5,2,1,1,2,3,12,8,10,10,Rural,<2 hours
+215,GP,F,17,LE3,T,3,2,2,0,no,no,yes,no,yes,yes,yes,no,4,4,4,1,3,1,2,14,15,15,Urban,2 to 5 hours
+216,GP,F,17,GT3,T,4,3,1,2,no,no,yes,no,yes,yes,yes,yes,3,4,5,2,4,1,22,6,6,4,Urban,2 to 5 hours
+217,GP,M,18,LE3,T,3,3,1,1,no,yes,yes,no,yes,yes,yes,no,3,2,4,2,4,4,13,6,6,8,Urban,2 to 5 hours
+218,GP,F,17,GT3,T,2,3,2,0,no,yes,yes,no,yes,yes,no,no,3,3,3,1,4,3,3,7,7,8,Urban,<2 hours
+219,GP,F,17,GT3,T,2,2,1,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,1,4,4,9,10,10,Urban,5 to 10 hours
+220,GP,F,17,GT3,T,2,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,5,1,2,5,2,6,6,6,Rural,2 to 5 hours
+221,GP,F,17,GT3,T,1,1,1,1,no,yes,no,yes,yes,yes,no,yes,4,3,4,1,1,5,0,6,5,0,Urban,5 to 10 hours
+222,GP,F,16,GT3,T,2,3,1,0,yes,no,no,no,yes,yes,yes,no,2,3,1,1,1,3,2,16,16,17,Urban,2 to 5 hours
+223,GP,M,18,GT3,T,2,2,2,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,5,5,4,0,12,13,13,Urban,2 to 5 hours
+224,GP,F,16,GT3,T,4,4,1,0,no,yes,no,yes,no,yes,yes,no,5,3,2,1,1,5,0,13,13,14,Urban,5 to 10 hours
+225,GP,F,18,GT3,T,3,1,1,1,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,1,4,16,9,8,7,Rural,2 to 5 hours
+226,GP,F,17,GT3,T,3,2,1,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,3,3,10,16,15,15,Urban,2 to 5 hours
+227,GP,M,17,LE3,T,2,3,1,0,no,yes,yes,no,no,yes,yes,no,5,3,3,1,3,3,2,12,11,12,Urban,2 to 5 hours
+228,GP,M,18,LE3,T,2,1,4,0,yes,yes,yes,yes,yes,yes,yes,yes,4,3,2,4,5,3,14,10,8,9,Urban,2 to 5 hours
+229,GP,F,17,GT3,A,2,1,2,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,3,10,12,10,12,Urban,5 to 10 hours
+230,GP,F,17,LE3,T,4,3,1,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,3,14,13,13,14,Urban,2 to 5 hours
+231,GP,M,17,GT3,T,2,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,5,2,1,1,1,4,11,11,11,Rural,2 to 5 hours
+232,GP,M,17,GT3,T,4,4,1,0,yes,yes,no,yes,yes,yes,yes,yes,4,5,5,1,3,2,14,11,9,9,Urban,2 to 5 hours
+233,GP,M,16,GT3,T,4,4,1,0,no,yes,yes,yes,yes,yes,yes,no,4,2,4,2,4,1,2,14,13,13,Urban,2 to 5 hours
+234,GP,M,16,LE3,T,1,1,2,0,no,yes,yes,no,yes,yes,yes,no,3,4,2,1,1,5,18,9,7,6,Urban,2 to 5 hours
+235,GP,M,16,GT3,T,3,2,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,3,2,10,11,9,10,Urban,5 to 10 hours
+236,GP,M,17,LE3,T,2,2,1,0,no,no,yes,yes,no,yes,yes,yes,4,4,2,5,5,4,4,14,13,13,Urban,2 to 5 hours
+237,GP,F,16,GT3,T,2,1,1,0,no,no,no,no,yes,yes,yes,yes,4,5,2,1,1,5,20,13,12,12,Urban,<2 hours
+238,GP,F,17,GT3,T,2,1,3,0,no,no,no,yes,yes,yes,no,no,2,1,1,1,1,3,2,13,11,11,Rural,2 to 5 hours
+239,GP,M,18,GT3,T,2,2,1,1,no,no,no,no,yes,no,yes,no,5,5,4,3,5,2,0,7,7,0,Urban,2 to 5 hours
+240,GP,M,17,LE3,T,4,3,2,0,no,no,no,yes,yes,yes,yes,yes,2,5,5,1,4,5,14,12,12,12,Urban,2 to 5 hours
+241,GP,M,17,LE3,A,4,4,2,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,2,3,4,2,10,11,12,Rural,2 to 5 hours
+242,GP,M,16,LE3,T,4,3,1,0,no,no,no,yes,no,yes,yes,no,5,4,5,1,1,3,0,6,0,0,Urban,<2 hours
+243,GP,M,16,GT3,T,4,4,1,0,no,no,no,yes,yes,yes,yes,no,5,3,2,1,2,5,0,13,12,12,Urban,<2 hours
+244,GP,F,18,GT3,T,2,1,2,0,no,yes,yes,no,no,yes,yes,yes,4,4,4,1,1,3,0,7,0,0,Urban,5 to 10 hours
+245,GP,M,16,GT3,T,2,1,3,0,no,no,no,no,yes,yes,yes,no,4,3,3,1,1,4,6,18,18,18,Urban,<2 hours
+246,GP,M,17,GT3,T,2,3,2,0,no,no,no,no,yes,yes,yes,no,5,2,2,1,1,2,4,12,12,13,Urban,<2 hours
+247,GP,M,22,GT3,T,3,1,1,3,no,no,no,no,no,no,yes,yes,5,4,5,5,5,1,16,6,8,8,Urban,<2 hours
+248,GP,M,18,LE3,T,3,3,1,1,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,3,5,8,3,5,5,Rural,2 to 5 hours
+249,GP,M,16,GT3,T,0,2,1,0,no,no,yes,no,no,yes,yes,no,4,3,2,2,4,5,0,13,15,15,Urban,<2 hours
+250,GP,M,18,GT3,T,3,2,2,1,no,no,no,no,yes,no,yes,no,4,4,5,2,4,5,0,6,8,8,Urban,<2 hours
+251,GP,M,16,GT3,T,3,3,3,0,yes,yes,no,no,no,yes,yes,no,5,3,3,1,3,2,6,7,10,10,Urban,2 to 5 hours
+252,GP,M,18,GT3,T,2,1,1,1,no,no,no,no,no,no,yes,no,3,2,5,2,5,5,4,6,9,8,Urban,<2 hours
+253,GP,M,16,GT3,T,2,1,2,0,no,no,no,yes,no,yes,no,no,3,3,2,1,3,3,0,8,9,8,Rural,<2 hours
+254,GP,M,17,GT3,T,2,1,1,0,no,no,no,no,no,yes,yes,no,4,4,2,2,4,5,0,8,12,12,Rural,<2 hours
+255,GP,M,17,LE3,T,1,1,2,1,no,yes,no,yes,yes,yes,yes,no,4,4,4,1,2,5,2,7,9,8,Urban,<2 hours
+256,GP,F,17,LE3,T,4,2,1,0,no,yes,yes,yes,yes,yes,yes,no,4,2,3,1,1,4,6,14,12,13,Urban,>10 hours
+257,GP,M,19,LE3,A,4,3,1,0,no,yes,no,no,yes,yes,yes,no,4,3,1,1,1,1,12,11,11,11,Urban,2 to 5 hours
+258,GP,M,18,GT3,T,2,1,1,0,no,no,no,yes,yes,yes,yes,no,5,2,4,1,2,4,8,15,14,14,Urban,2 to 5 hours
+259,GP,F,17,LE3,T,2,2,1,0,no,no,yes,yes,yes,yes,yes,yes,3,4,1,1,1,2,0,10,9,0,Urban,>10 hours
+260,GP,F,18,GT3,T,4,3,1,0,no,yes,yes,no,yes,yes,yes,yes,3,1,2,1,3,2,21,17,18,18,Urban,2 to 5 hours
+261,GP,M,18,GT3,T,4,3,1,0,no,yes,yes,no,no,yes,yes,no,4,3,2,1,1,3,2,8,8,8,Urban,2 to 5 hours
+262,GP,M,18,GT3,T,3,2,1,0,no,no,no,yes,no,yes,no,no,5,3,2,1,1,3,1,13,12,12,Rural,5 to 10 hours
+263,GP,F,17,GT3,T,3,3,1,0,no,no,no,yes,no,yes,no,no,3,2,3,1,1,4,4,10,9,9,Urban,5 to 10 hours
+264,GP,F,18,GT3,T,2,2,1,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,3,1,1,3,0,9,10,0,Urban,5 to 10 hours
+265,GP,M,18,LE3,A,3,4,2,0,no,yes,yes,yes,yes,yes,yes,no,4,2,5,3,4,1,13,17,17,17,Rural,2 to 5 hours
+266,GP,M,17,GT3,T,3,1,1,0,no,no,yes,yes,yes,yes,yes,yes,5,4,4,3,4,5,2,9,9,10,Urban,2 to 5 hours
+267,GP,F,18,GT3,T,4,4,2,0,no,no,yes,yes,yes,yes,yes,no,4,3,4,2,2,4,8,12,10,11,Rural,2 to 5 hours
+268,GP,M,18,GT3,T,4,2,1,0,no,yes,yes,yes,yes,yes,yes,yes,5,4,5,1,3,5,10,10,9,10,Urban,2 to 5 hours
+269,GP,F,18,GT3,T,2,1,2,0,no,yes,no,no,yes,no,yes,yes,4,3,5,1,2,3,0,6,0,0,Rural,2 to 5 hours
+270,GP,F,19,GT3,T,3,3,1,2,no,yes,yes,yes,yes,yes,yes,no,4,3,5,3,3,5,15,9,9,9,Urban,2 to 5 hours
+271,GP,F,18,GT3,T,2,3,1,0,no,yes,yes,yes,yes,yes,yes,yes,4,5,5,1,3,2,4,15,14,14,Urban,>10 hours
+272,GP,F,18,LE3,T,1,1,2,0,no,yes,yes,no,no,yes,no,no,4,4,3,1,1,3,2,11,11,11,Urban,2 to 5 hours
+273,GP,M,17,GT3,T,1,2,1,0,no,yes,yes,yes,no,yes,no,yes,3,5,2,2,2,1,2,15,14,14,Rural,2 to 5 hours
+274,GP,F,17,GT3,T,2,4,2,0,no,yes,yes,no,yes,yes,yes,yes,4,3,3,1,1,1,2,10,10,10,Urban,2 to 5 hours
+275,GP,F,17,LE3,T,2,2,2,0,yes,yes,yes,no,yes,yes,yes,yes,4,4,4,2,3,5,6,12,12,12,Urban,2 to 5 hours
+276,GP,F,18,GT3,A,3,2,2,0,no,no,no,no,no,no,yes,yes,4,1,1,1,1,5,75,10,9,9,Rural,2 to 5 hours
+277,GP,M,18,GT3,T,4,4,2,0,no,no,yes,yes,yes,yes,yes,no,3,2,4,1,4,3,22,9,9,9,Urban,<2 hours
+278,GP,F,18,GT3,T,4,4,1,1,yes,yes,no,yes,yes,yes,yes,yes,2,4,4,1,1,4,15,9,8,8,Urban,2 to 5 hours
+279,GP,M,18,LE3,T,4,3,2,0,no,no,yes,yes,yes,yes,yes,no,4,2,3,1,2,1,8,10,11,10,Urban,<2 hours
+280,GP,M,17,LE3,A,4,1,2,0,no,no,yes,yes,yes,yes,yes,yes,4,5,4,2,4,5,30,8,8,8,Urban,<2 hours
+281,GP,M,17,LE3,A,3,2,1,1,no,no,no,no,yes,yes,yes,no,4,4,4,3,4,3,19,11,9,10,Urban,<2 hours
+282,GP,F,18,LE3,T,1,1,2,0,no,yes,yes,yes,yes,yes,no,no,5,2,2,1,1,3,1,12,12,12,Rural,>10 hours
+283,GP,F,18,GT3,T,1,1,2,0,yes,no,no,yes,yes,yes,yes,no,5,4,4,1,1,4,4,8,9,10,Urban,2 to 5 hours
+284,GP,F,17,GT3,T,2,2,1,0,no,yes,no,no,no,yes,yes,no,5,4,5,1,2,5,4,10,9,11,Urban,2 to 5 hours
+285,GP,M,17,GT3,T,1,1,1,0,no,no,yes,no,no,yes,yes,no,4,3,3,1,2,4,2,12,10,11,Urban,2 to 5 hours
+286,GP,F,18,GT3,T,2,2,1,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,2,2,5,18,18,19,Urban,5 to 10 hours
+287,GP,F,17,GT3,T,1,1,1,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,3,6,13,12,12,Urban,5 to 10 hours
+288,GP,M,18,GT3,T,2,1,1,0,no,no,yes,yes,yes,yes,yes,no,4,2,4,1,3,2,6,15,14,14,Urban,5 to 10 hours
+289,GP,M,18,LE3,A,4,4,1,0,no,yes,yes,yes,yes,yes,yes,no,5,4,3,1,1,2,9,15,13,15,Urban,2 to 5 hours
+290,GP,M,18,GT3,T,4,2,1,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,2,1,4,5,11,12,11,11,Urban,2 to 5 hours
+291,GP,F,17,GT3,T,4,3,1,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,2,3,0,15,15,15,Urban,5 to 10 hours
+292,GP,F,18,LE3,T,2,1,1,1,no,no,no,no,yes,yes,yes,yes,5,4,3,1,1,5,12,12,12,13,Urban,2 to 5 hours
+293,GP,F,17,LE3,T,3,1,2,0,no,yes,yes,no,yes,yes,no,no,3,1,2,1,1,3,6,18,18,18,Rural,>10 hours
+294,GP,M,18,LE3,T,3,2,2,0,no,yes,yes,yes,yes,yes,yes,no,5,4,2,1,1,4,8,14,13,14,Rural,5 to 10 hours
+295,GP,M,17,GT3,T,3,3,1,0,no,yes,yes,no,yes,yes,yes,no,4,4,3,1,3,5,4,14,12,11,Urban,<2 hours
+296,GP,F,19,GT3,T,4,4,2,0,no,yes,yes,yes,yes,yes,yes,no,2,3,4,2,3,2,0,10,9,0,Urban,2 to 5 hours
+297,GP,F,18,LE3,T,4,3,2,0,no,yes,yes,no,yes,yes,yes,yes,4,4,5,1,2,2,10,10,8,8,Urban,2 to 5 hours
+298,GP,F,18,GT3,T,4,3,1,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,3,0,14,13,14,Urban,>10 hours
+299,GP,M,18,LE3,T,4,4,1,0,no,yes,yes,no,yes,yes,yes,yes,1,4,2,2,2,1,5,16,15,16,Urban,<2 hours
+300,GP,F,18,LE3,A,4,4,1,0,no,yes,no,no,yes,yes,yes,yes,4,2,4,1,1,4,14,12,10,11,Urban,2 to 5 hours
+301,GP,M,17,LE3,T,4,4,2,0,no,no,yes,no,yes,yes,yes,no,4,1,1,2,2,5,0,11,11,10,Urban,<2 hours
+302,GP,F,17,GT3,T,4,2,2,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,1,1,3,0,15,12,14,Urban,5 to 10 hours
+303,GP,F,17,GT3,T,3,2,1,0,no,yes,yes,yes,no,yes,yes,no,5,2,2,1,2,5,0,17,17,18,Urban,>10 hours
+304,GP,M,19,GT3,T,3,3,1,1,no,yes,no,yes,yes,yes,yes,yes,4,4,4,1,1,3,20,15,14,13,Urban,2 to 5 hours
+305,GP,F,18,GT3,T,2,4,1,1,no,yes,yes,yes,yes,yes,yes,no,4,4,3,1,1,3,8,14,12,12,Urban,2 to 5 hours
+306,GP,M,20,GT3,A,3,2,1,0,no,no,no,yes,yes,yes,no,no,5,5,3,1,1,5,0,17,18,18,Urban,<2 hours
+307,GP,M,19,GT3,T,4,4,2,1,no,yes,yes,no,yes,yes,yes,yes,4,3,4,1,1,4,38,8,9,8,Urban,<2 hours
+308,GP,M,19,GT3,T,3,3,1,1,no,no,no,yes,yes,yes,no,yes,4,5,3,1,2,5,0,15,12,12,Rural,2 to 5 hours
+309,GP,F,19,LE3,T,1,1,1,1,yes,yes,no,yes,no,yes,yes,no,4,4,3,1,3,3,18,12,10,10,Urban,2 to 5 hours
+310,GP,F,19,LE3,T,1,2,1,1,no,no,no,yes,no,yes,no,yes,4,2,4,2,2,3,0,9,9,0,Urban,2 to 5 hours
+311,GP,F,19,GT3,T,2,1,3,0,no,yes,no,no,yes,no,yes,yes,3,4,1,1,1,2,20,14,12,13,Urban,2 to 5 hours
+312,GP,M,19,GT3,T,1,2,1,1,no,no,no,no,no,yes,yes,no,4,5,2,2,2,4,3,13,11,11,Urban,2 to 5 hours
+313,GP,F,19,LE3,T,3,2,2,1,no,yes,yes,no,no,yes,yes,yes,4,2,2,1,2,1,22,13,10,11,Urban,2 to 5 hours
+314,GP,F,19,GT3,T,1,1,1,2,no,no,no,no,no,yes,yes,yes,4,1,2,1,1,3,14,15,13,13,Urban,5 to 10 hours
+315,GP,F,19,GT3,T,2,3,1,1,no,no,no,no,yes,yes,yes,yes,4,1,2,1,1,3,40,13,11,11,Rural,5 to 10 hours
+316,GP,F,18,GT3,T,2,1,2,0,no,yes,yes,yes,yes,yes,yes,no,5,3,3,1,2,1,0,8,8,0,Urban,2 to 5 hours
+317,GP,F,18,GT3,T,4,3,1,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,4,1,1,5,9,9,10,9,Urban,5 to 10 hours
+318,GP,F,17,GT3,T,3,4,1,0,no,yes,yes,yes,no,yes,yes,no,4,3,4,2,5,5,0,11,11,10,Rural,5 to 10 hours
+319,GP,F,18,GT3,T,4,4,1,0,no,yes,yes,no,yes,yes,yes,no,4,4,4,3,3,5,2,11,11,11,Urban,2 to 5 hours
+320,GP,F,17,GT3,A,4,3,1,0,no,yes,yes,no,yes,yes,yes,yes,5,2,2,1,2,5,23,13,13,13,Urban,2 to 5 hours
+321,GP,F,17,GT3,T,2,2,1,0,no,yes,no,no,yes,yes,no,yes,4,2,2,1,1,3,12,11,9,9,Urban,2 to 5 hours
+322,GP,F,17,LE3,T,2,2,1,0,no,yes,yes,yes,yes,yes,yes,no,3,3,2,2,2,3,3,11,11,11,Rural,5 to 10 hours
+323,GP,F,17,GT3,T,3,1,1,0,no,yes,no,no,no,yes,yes,no,3,4,3,2,3,5,1,12,14,15,Urban,5 to 10 hours
+324,GP,F,17,LE3,T,0,2,2,0,no,no,no,no,yes,yes,yes,no,3,3,3,2,3,2,0,16,15,15,Urban,5 to 10 hours
+325,GP,M,18,GT3,T,4,4,1,0,no,no,no,yes,yes,yes,yes,no,4,3,3,2,2,3,3,9,12,11,Urban,5 to 10 hours
+326,GP,M,17,GT3,T,3,3,1,0,no,no,no,yes,no,yes,yes,no,4,3,5,3,5,5,3,14,15,16,Urban,<2 hours
+327,GP,M,17,GT3,T,2,2,4,0,no,yes,no,no,yes,yes,yes,no,4,4,5,5,5,4,8,11,10,10,Rural,<2 hours
+328,GP,F,17,GT3,T,4,4,1,0,no,yes,yes,yes,yes,yes,yes,no,5,4,4,1,3,4,7,10,9,9,Urban,5 to 10 hours
+329,GP,F,17,GT3,T,4,4,2,0,no,yes,yes,no,no,yes,yes,yes,4,3,3,1,2,4,4,14,14,14,Urban,5 to 10 hours
+330,GP,M,18,LE3,T,2,2,1,0,no,yes,no,yes,yes,yes,yes,no,4,5,5,2,4,5,2,9,8,8,Urban,>10 hours
+331,GP,F,17,GT3,T,2,4,1,0,no,yes,no,no,yes,yes,yes,yes,4,4,3,1,1,5,7,12,14,14,Rural,5 to 10 hours
+332,GP,F,18,GT3,T,3,3,1,0,no,no,no,yes,yes,yes,yes,no,5,3,4,1,1,4,0,7,0,0,Urban,2 to 5 hours
+333,GP,F,18,LE3,T,2,2,1,0,no,no,no,yes,no,yes,yes,yes,4,3,3,1,1,2,0,8,8,0,Urban,2 to 5 hours
+334,GP,F,18,GT3,T,2,2,2,0,no,no,no,yes,yes,yes,no,no,4,4,4,1,1,4,0,10,9,0,Rural,>10 hours
+335,GP,F,17,GT3,T,3,4,1,0,no,no,no,no,yes,yes,yes,no,4,4,5,1,3,5,16,16,15,15,Urban,5 to 10 hours
+336,GP,F,19,GT3,A,3,1,1,1,no,no,yes,no,yes,yes,no,no,5,4,3,1,2,5,12,14,13,13,Rural,5 to 10 hours
+337,GP,F,17,GT3,T,3,2,1,0,no,yes,yes,no,yes,yes,yes,yes,4,3,2,2,3,2,0,7,8,0,Urban,2 to 5 hours
+338,GP,F,18,LE3,T,3,3,1,0,no,yes,no,no,yes,yes,yes,no,5,3,3,1,1,1,7,16,15,17,Urban,>10 hours
+339,GP,F,17,GT3,A,3,2,1,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,2,3,2,4,9,10,10,Rural,2 to 5 hours
+340,GP,F,19,GT3,T,2,1,1,1,no,no,yes,yes,yes,yes,yes,yes,4,3,4,1,3,3,4,11,12,11,Urban,5 to 10 hours
+341,GP,M,18,GT3,T,4,4,1,1,no,yes,no,yes,yes,yes,yes,no,4,3,3,2,2,2,0,10,10,0,Urban,2 to 5 hours
+342,GP,M,18,LE3,T,3,4,1,0,no,no,no,yes,yes,yes,yes,yes,4,3,3,1,3,5,11,16,15,15,Urban,2 to 5 hours
+343,GP,F,17,GT3,A,2,2,1,1,no,yes,no,no,yes,yes,yes,yes,3,3,1,1,2,4,0,9,8,0,Urban,2 to 5 hours
+344,GP,F,18,GT3,T,2,3,1,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,2,3,4,11,10,10,Urban,5 to 10 hours
+345,GP,F,18,GT3,T,3,2,1,0,no,no,no,no,yes,yes,yes,yes,5,4,3,2,3,1,7,13,13,14,Urban,5 to 10 hours
+346,GP,M,18,GT3,T,4,3,1,0,no,no,no,no,yes,yes,yes,yes,5,3,2,1,2,4,9,16,15,16,Rural,5 to 10 hours
+347,GP,M,18,GT3,T,4,3,1,0,no,yes,yes,no,yes,yes,yes,yes,5,4,5,2,3,5,0,10,10,9,Urban,5 to 10 hours
+348,GP,F,17,GT3,T,4,3,1,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,3,1,3,4,0,13,15,15,Urban,5 to 10 hours
+349,MS,M,18,GT3,T,3,2,2,1,no,yes,no,no,no,yes,yes,no,2,5,5,5,5,5,10,11,13,13,Rural,<2 hours
+350,MS,M,19,GT3,T,1,1,3,3,no,no,no,no,yes,yes,yes,no,5,4,4,3,3,2,8,8,7,8,Rural,2 to 5 hours
+351,MS,M,17,GT3,T,3,3,2,0,no,yes,yes,no,yes,yes,yes,no,4,5,4,2,3,3,2,13,13,13,Urban,2 to 5 hours
+352,MS,M,18,LE3,T,1,3,1,1,no,no,no,no,yes,no,yes,yes,4,3,3,2,3,3,7,8,7,8,Urban,<2 hours
+353,MS,M,19,GT3,T,1,1,3,1,no,yes,no,no,yes,yes,yes,no,4,4,4,3,3,5,4,8,8,8,Rural,<2 hours
+354,MS,M,17,GT3,T,4,3,2,0,no,yes,yes,yes,no,yes,yes,yes,4,5,5,1,3,2,4,13,11,11,Rural,2 to 5 hours
+355,MS,F,18,GT3,T,3,3,1,0,no,yes,no,no,yes,yes,no,yes,5,3,4,1,1,5,0,10,9,9,Urban,2 to 5 hours
+356,MS,F,17,GT3,T,4,4,2,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,2,5,4,12,13,13,Rural,2 to 5 hours
+357,MS,F,17,LE3,A,3,2,2,0,no,no,no,no,yes,yes,no,yes,1,2,3,1,2,5,2,12,12,11,Urban,2 to 5 hours
+358,MS,M,18,LE3,T,1,1,2,0,no,no,no,no,no,yes,yes,yes,3,3,2,1,2,3,4,10,10,10,Urban,<2 hours
+359,MS,F,18,LE3,T,1,1,2,0,no,no,no,no,yes,yes,yes,no,5,3,2,1,1,4,0,18,16,16,Urban,5 to 10 hours
+360,MS,F,18,LE3,A,1,4,3,0,no,no,no,no,yes,yes,no,yes,4,3,4,1,4,5,0,13,13,13,Rural,2 to 5 hours
+361,MS,M,18,LE3,T,1,1,2,1,no,no,no,yes,no,no,no,no,4,4,3,2,3,5,2,13,12,12,Rural,2 to 5 hours
+362,MS,F,18,GT3,T,3,3,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,2,1,3,3,0,11,11,10,Urban,2 to 5 hours
+363,MS,F,17,LE3,T,4,4,1,0,no,yes,yes,yes,yes,yes,yes,yes,2,3,4,1,1,1,0,16,15,15,Urban,2 to 5 hours
+364,MS,F,17,GT3,T,1,2,2,0,no,no,no,no,no,yes,no,no,3,2,2,1,2,3,0,12,11,12,Rural,2 to 5 hours
+365,MS,M,18,GT3,T,1,3,2,0,no,yes,yes,no,yes,yes,no,no,3,3,4,2,4,3,4,10,10,10,Rural,2 to 5 hours
+366,MS,M,18,LE3,T,4,4,2,0,no,no,yes,no,yes,yes,yes,yes,4,2,2,2,2,5,0,13,13,13,Urban,5 to 10 hours
+367,MS,F,17,GT3,T,1,1,3,1,no,yes,yes,no,yes,yes,yes,yes,5,2,1,1,2,1,0,7,6,0,Rural,<2 hours
+368,MS,F,18,GT3,T,2,3,2,0,no,yes,yes,no,yes,yes,yes,yes,5,2,3,1,2,4,0,11,10,10,Urban,<2 hours
+369,MS,F,18,GT3,T,4,4,3,0,no,yes,yes,no,no,yes,yes,yes,3,2,2,4,2,5,10,14,12,11,Rural,2 to 5 hours
+370,MS,F,19,LE3,T,3,2,2,2,no,no,no,yes,yes,yes,no,yes,3,2,2,1,1,3,4,7,7,9,Urban,2 to 5 hours
+371,MS,M,18,LE3,T,1,2,3,0,no,yes,yes,yes,yes,no,yes,yes,4,3,3,2,3,3,3,14,12,12,Rural,<2 hours
+372,MS,F,17,GT3,T,2,2,1,0,no,no,no,yes,yes,yes,no,yes,3,4,3,1,1,3,8,13,11,11,Urban,5 to 10 hours
+373,MS,F,17,GT3,T,1,2,1,0,no,no,no,yes,yes,yes,yes,no,3,5,5,1,3,1,14,6,5,5,Rural,<2 hours
+374,MS,F,18,LE3,T,4,4,2,0,no,no,no,no,yes,yes,yes,no,5,4,4,1,1,1,0,19,18,19,Rural,5 to 10 hours
+375,MS,F,18,GT3,T,1,1,4,0,no,no,no,no,yes,yes,yes,no,4,3,2,1,2,4,2,8,8,10,Rural,5 to 10 hours
+376,MS,F,20,GT3,T,4,2,2,2,no,yes,yes,no,no,yes,yes,yes,5,4,3,1,1,3,4,15,14,15,Urban,5 to 10 hours
+377,MS,F,18,LE3,T,4,4,1,0,no,no,yes,yes,yes,yes,yes,no,5,4,3,3,4,2,4,8,9,10,Rural,2 to 5 hours
+378,MS,F,18,GT3,T,3,3,1,0,no,no,yes,no,yes,yes,yes,yes,4,1,3,1,2,1,0,15,15,15,Urban,2 to 5 hours
+379,MS,F,17,GT3,T,3,1,1,0,no,yes,yes,yes,no,yes,yes,no,4,5,4,2,3,1,17,10,10,10,Rural,2 to 5 hours
+380,MS,M,18,GT3,T,4,4,1,0,no,no,yes,yes,no,yes,yes,no,3,2,4,1,4,2,4,15,14,14,Urban,2 to 5 hours
+381,MS,M,18,GT3,T,2,1,2,0,no,no,no,yes,no,yes,yes,yes,4,4,3,1,3,5,5,7,6,7,Rural,<2 hours
+382,MS,M,17,GT3,T,2,3,2,0,no,no,no,yes,yes,yes,yes,no,4,4,3,1,1,3,2,11,11,10,Urban,2 to 5 hours
+383,MS,M,19,GT3,T,1,1,2,1,no,no,no,no,yes,yes,no,no,4,3,2,1,3,5,0,6,5,0,Rural,<2 hours
+384,MS,M,18,GT3,T,4,2,2,1,no,no,yes,no,yes,yes,no,no,5,4,3,4,3,3,14,6,5,5,Rural,<2 hours
+385,MS,F,18,GT3,T,2,2,2,0,no,no,yes,no,yes,yes,no,no,5,3,3,1,3,4,2,10,9,10,Rural,5 to 10 hours
+386,MS,F,18,GT3,T,4,4,3,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,3,2,2,5,7,6,5,6,Rural,<2 hours
+387,MS,F,19,GT3,T,2,3,1,1,no,no,no,yes,no,yes,yes,no,5,4,2,1,2,5,0,7,5,0,Rural,5 to 10 hours
+388,MS,F,18,LE3,T,3,1,1,0,no,yes,yes,no,yes,yes,yes,no,4,3,4,1,1,1,0,7,9,8,Urban,2 to 5 hours
+389,MS,F,18,GT3,T,1,1,2,1,no,no,no,yes,yes,yes,no,no,1,1,1,1,1,5,0,6,5,0,Urban,2 to 5 hours
+390,MS,M,20,LE3,A,2,2,1,2,no,yes,yes,no,yes,yes,no,no,5,5,4,4,5,4,11,9,9,9,Urban,2 to 5 hours
+391,MS,M,17,LE3,T,3,1,2,0,no,no,no,no,no,yes,yes,no,2,4,5,3,4,2,3,14,16,16,Urban,<2 hours
+392,MS,M,21,GT3,T,1,1,1,3,no,no,no,no,no,yes,no,no,5,5,3,3,3,3,3,10,8,7,Rural,<2 hours
+393,MS,M,18,LE3,T,3,2,3,0,no,no,no,no,no,yes,yes,no,4,4,1,3,4,5,0,11,12,10,Rural,<2 hours
+394,MS,M,19,LE3,T,1,1,1,0,no,no,no,no,yes,yes,yes,no,3,2,3,3,3,5,5,8,9,9,Urban,<2 hours
