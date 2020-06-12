@@ -1,9 +1,41 @@
-01 Changing style and palette
-02 Changing the scale
-03 Using a custom palette
-04 FacetGrids vs. AxesSubplots
-05 Adding a title to a FacetGrid object
-06 Adding a title and axis labels
-07 Rotating x-tick labels
-08 Box plot with subgroups
-09 Bar plot with subgroups and subplots
+01 Exploring your working directory
+02 Importing entire text files
+03 Importing text files line by line
+04 Pop quiz: examples of flat files
+05 Pop quiz: what exactly are flat files?
+06 Why we like flat files and the Zen of Python
+07 Using NumPy to import flat files
+08 Customizing your NumPy import
+09 Importing different datatypes
+10 Working with mixed datatypes (1)
+11 Working with mixed datatypes (2)
+12 Using pandas to import flat files as DataFrames (1)
+13 Using pandas to import flat files as DataFrames (2)
+14 Customizing your pandas import
+
+01 Not so flat any more
+02 Loading a pickled file
+03 Listing sheets in Excel files
+04 Importing sheets from Excel files
+05 Customizing your spreadsheet import
+06 How to import SAS7BDAT
+07 Importing SAS files
+08 Using read_stata to import Stata files
+09 Importing Stata files
+10 Using File to import HDF5 files
+11 Using h5py to import HDF5 files
+12 Extracting data from your HDF5 file
+13 Loading .mat files
+14 The structure of .mat in Python
+
+01 Pop quiz: The relational model
+02 Creating a database engine
+03 What are the tables in the database?
+04 The Hello World of SQL Queries!
+05 Customizing the Hello World of SQL Queries
+06 Filtering your database records using SQL's WHERE
+07 Ordering your SQL records with ORDER BY
+08 Pandas and The Hello World of SQL Queries!
+09 Pandas for more complex querying
+10 The power of SQL lies in relationships between tables: INNER JOIN
+11 Filtering your INNER JOIN
