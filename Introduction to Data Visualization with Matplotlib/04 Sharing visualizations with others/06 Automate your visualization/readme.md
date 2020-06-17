@@ -30,3 +30,6 @@ ax.set_xticklabels(sports, rotation=90)
 # Save the figure to file
 fig.savefig('sports_weights.png')
 ```
+
+## Plots
+![img](index.svg)
