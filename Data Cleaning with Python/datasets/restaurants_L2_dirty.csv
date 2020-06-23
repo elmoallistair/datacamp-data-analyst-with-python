@@ -1,0 +1,83 @@
+,name,addr,city,phone,type
+0,kokomo,6333 w. third st.,la,2139330773,american
+1,feenix, 8358 sunset blvd. west ,hollywood,2138486677,american
+2,parkway,510 s. arroyo pkwy .,pasadena,8187951001,californian
+3,r-23,923 e. third st.,los angeles,2136877178,japanese
+4,gumbo,6333 w. third st.,la,2139330358,cajun/creole
+5,pink's,709 n. la brea ave.,la,2139314223,hot dogs
+6,original,875 s. figueroa st. downtown,la,2136276879,diners
+7,21 clubs,21 w. 52nd st. ,new york,2125827200,american
+8,langer's,704 s. alvarado st.,la,2134838050,delis
+9,mo,7261 melrose ave.,la,2139355280,hamburgers
+10,killer,4000 colfax ave.,studio city,8185081570,seafood
+11,jody,2011 ocean front walk,venice,3103061995,hot dogs
+12,chanterele, 2 harrison st. near hudson st. ,new york,2129666960,american
+13,ocean,3117 ocean park blvd.,santa monica,3104525728,american
+14,bruno's,3838 centinela ave.,mar vista,3103975703,italian
+15,brighton,9600 brighton way,beverly hills,3102767732,coffee shops
+16,diaghilev,1020 n. san vicente blvd.,w. hollywood,3108541111,russian
+17,rubin's,15322 ventura blvd.,encino,8189056515,hot dogs
+18,ruth's,224 s. beverly dr.,beverly hills,3108598744,steakhouses
+19,la,1842 e. first,st. boyle hts .,2132652887,mexican/tex-mex
+20,fourr seasons grill room,99 e. 52nd st. ,new york,2127549494,american
+21,valentina, 3115 pico blvd. ,santa monica,3108294313,italian
+22,ruby's,45 s. fair oaks ave.,pasadena,8187967829,diners
+23,mishima,8474 w. third st.,la,2137820181,noodle shops
+24,baja,3345 kimber dr.,westlake village,8054984049,mexican
+25,falafel,1059 broxton ave.,westwood,3102084444,middle eastern
+26,yujean kang's gourmet chineese cuisine,67 n. raymond ave. ,los angeles,8185850855,asian
+27,gothamm bar & grill,12 e. 12th st. ,new york,2126204020,american
+28,art's delicatess, 12224 ventura blvd. ,studio city,8187621221,american
+29,asahi,2027 sawtelle blvd.,west la,3104792231,noodle shops
+30,bristol,1570 rosecrans ave. s.,pasadena,3106435229,californian
+31,pho,642 broadway,chinatown,2136265530,vietnamese
+32,local,30869 thousand oaks blvd.,westlake village,8187067706,health food
+33,joe's,1023 abbot kinney blvd.,venice,3103995811,american ( new )
+34,bistro,45 s. mentor ave.,pasadena,8187952478,californian
+35,jan's,8424 beverly blvd.,la,2136512866,coffee shops
+36,michael's,1147 third st.,santa monica,3104510843,californian
+37,ocean,145 n. atlantic blvd.,monterey park,8183082128,seafood
+38,cafe,9777 little santa monica blvd.,beverly hills,3108880108,pacific new wave
+39,main,10509 w. pico blvd.,rancho park,3104757564,american
+40,arni morton's of chicago, 435 s. la cienega blv . ,los angeles,3102461501,american
+41,indo,10428 1/2 national blvd.,la,3108151290,indonesian
+42,chez,1716 pch,redondo beach,3105401222,eclectic
+43,the palms, 9001 santa monica blvd. ,los angeles,3105508811,american
+44,koo,8393 w. beverly blvd.,la,2136559045,chicken
+45,rae's,2901 pico blvd.,santa monica,3108287937,diners
+46,benita's,1433 third st. promenade,santa monica,3104582889,fast food
+47,felicia, 243 e. 58th st. ,new york,2127581479,italian
+48,johnny,4663 long beach blvd.,long beach,3104237327,southern/soul
+49,johnny,7507 melrose ave.,la,2136513361,american
+50,philipe's the original, 1001 n. alameda st. ,los angeles,2136283781,american
+51,cafe,838 lincoln blvd.,venice,3103991955,american
+52,cassell's,3266 w. sixth st.,la,2134808668,hamburgers
+53,grill on the allie, 9560 dayton way ,los angeles,3102760615,american
+54,maxwell's,13329 washington blvd.,marina del rey,3103067829,american
+55,cafe lala, 201 w. 83rd st. ,new york,2124966031,coffeebar
+56,hollywood,6145 franklin ave.,hollywood,2134677678,coffee shops
+57,carrmine's, 2450 broadway between 90th and 91st sts . ,new york,2123622200,italian
+58,duke's,8909 sunset blvd.,w. hollywood,3106523100,coffee shops
+59,johnnie's,4017 s. sepulveda blvd.,culver city,3103976654,delis
+60,bernard's,515 s. olive st.,los angeles,2136121580,continental
+61,apple,10801 w. pico blvd.,west la,3104753585,american
+62,belvedere,9882 little santa monica blvd.,beverly hills,3107882306,pacific new wave
+63,poquito,2635 w. olive ave.,burbank,8185632252,mexican
+64,la,10506 little santa monica blvd.,century city,3104704992,french ( new )
+65,restaurant katsui, 1972 n. hillhurst ave. ,los angeles,2136651891,asian
+66,la,22800 pch,malibu,3104566299,mexican
+67,aureola,34 e. 61st st. ,new york,2123191660,american
+68,russell's,1198 pch,seal beach,3105969556,hamburgers
+69,mani's,519 s. fairfax ave.,la,2139388800,desserts
+70,john,10516 w. pico blvd.,west la,3102040692,coffee shops
+71,dawatt, 210 e. 58th st. ,new york,2123557555,asian
+72,brent's,19565 parthenia ave.,northridge,8188865679,delis
+73,locanda venetta, 3rd st. ,los angeles,3102741893,italian
+74,campanil, 624 s. la brea ave. ,los angeles,2139381447,american
+75,rex il ristoranti, 617 s. olive st. ,los angeles,2136272300,italian
+76,don,1136 westwood blvd.,westwood,3102091422,italian
+77,feast,1949 westwood blvd.,west la,3104750400,chinese
+78,mulberry,17040 ventura blvd.,encino,8189068881,pizza
+79,matsuhissa, 129 n. la cienega blvd. ,beverly hills,3106599639,asian
+80,jiraffe,502 santa monica blvd,santa monica,3109176671,californian
+81,martha's,22nd street grill 25 22nd,st. hermosa beach,3103767786,american
