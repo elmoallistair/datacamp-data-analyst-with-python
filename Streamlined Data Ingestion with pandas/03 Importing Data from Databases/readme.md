@@ -1,0 +1,2 @@
+03 Importing Data from Databases
+Combine pandas with the powers of SQL to find out just how many problems New Yorkers have with their housing. This chapter features introductory SQL topics like WHERE clauses, aggregate functions, and basic joins.

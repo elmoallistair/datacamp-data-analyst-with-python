@@ -1,0 +1,1 @@
+Automate data imports from that staple of office life, Excel files. Import part or all of a workbook and ensure boolean and datetime data are properly loaded, all while learning about how other people are learning to code.
