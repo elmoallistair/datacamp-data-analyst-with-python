@@ -1,0 +1,1 @@
+In this chapter, you'll learn more about set theory using Venn diagrams and get an introduction to union, union all, intersect, and except clauses. You'll finish by investigating semi joins and anti joins, which provide a nice introduction to subqueries.
