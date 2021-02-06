@@ -1,1 +1,0 @@
-revenue.join(managers, lsuffix='_rev', rsuffix='_mng', how='outer')

@@ -1,1 +1,0 @@
-You'll learn all about merging pandas DataFrames. You'll explore different techniques for merging, and learn about left joins, right joins, inner joins, and outer joins, as well as when to use which. You'll also learn about ordered merging, which is useful when you want to merge DataFrames with columns that have natural orderings, like date-time columns. 

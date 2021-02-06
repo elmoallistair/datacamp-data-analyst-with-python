@@ -1,1 +1,0 @@
-Practice using pandas to get just the data you want from flat files, learn how to wrangle data types and handle errors, and look into some U.S. tax data along the way.
