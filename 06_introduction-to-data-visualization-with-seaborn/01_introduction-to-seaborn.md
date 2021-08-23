@@ -77,6 +77,14 @@ sns.scatterplot(x='absences', y='G3', data=student_data, hue='location')
 
 # Show plot
 plt.show()
+
+
+
+# Change the legend order in the scatter plot
+sns.scatterplot(x="absences", y="G3", data=student_data, hue="location", hue_order=["Rural", "Urban"])
+
+# Show plot
+plt.show()
 ```
 
 ### Hue and count plots
