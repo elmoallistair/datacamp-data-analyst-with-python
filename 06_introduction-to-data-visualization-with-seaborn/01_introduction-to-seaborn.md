@@ -20,16 +20,18 @@ plt.show()
 
 ### Making a count plot with a list
 
+
 ```
 # Import Matplotlib and Seaborn
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Change this scatter plot to have percent literate on the y-axis
-sns.scatterplot(x=gdp, y=percent_literate)
+# Create count plot with region on the y-axis
+sns.countplot(y=region)
 
 # Show plot
 plt.show()
+
 ```
 
 ### "Tidy" vs. "untidy" data
